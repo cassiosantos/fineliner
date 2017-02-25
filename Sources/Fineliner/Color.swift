@@ -12,7 +12,7 @@ public struct Color {
        self.name = name
     }
 
-    public func setName(newName: String?) {
+    public mutating func setName(newName: String?) {
         name = newName
     }
 
