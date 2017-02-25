@@ -1,4 +1,4 @@
-Fineliners
+Fineliners [![Build Status](https://travis-ci.org/cassiosantos/fineliner.svg?branch=master)](https://travis-ci.org/cassiosantos/fineliner)
 ===
 
 Simple script to sort fineliners and shapes to draw.
