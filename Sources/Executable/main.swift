@@ -1,0 +1,3 @@
+import Fineliner
+
+Fineliner().printShhuffledPens()
