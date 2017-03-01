@@ -1,5 +1,7 @@
-Fineliner [![Build Status](https://travis-ci.org/cassiosantos/fineliner.svg?branch=master)](https://travis-ci.org/cassiosantos/fineliner)
+Fineliner
 ===
+
+[![Build Status](https://travis-ci.org/cassiosantos/fineliner.svg?branch=master)](https://travis-ci.org/cassiosantos/fineliner) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cassiosantos/fineliner/master/LICENSE.txt)
 
 Simple script to sort fineliners and shapes to draw.
 
